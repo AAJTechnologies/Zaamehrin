@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Zaamehrin.Shared", "Zaamehrin.Shared\Zaamehrin.Shared.shproj", "{3128B8F1-0F04-45C1-8F6F-8833543EA8DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zaamehrin.iOS", "Zaamehrin.iOS\Zaamehrin.iOS.csproj", "{E1E05C2A-08F2-4BA7-834F-956FAD636311}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zaamehrin.Android", "Zaamehrin.Android\Zaamehrin.Android.csproj", "{58E40850-9043-428F-8016-DD6B5E3D1F3A}"
+EndProject
+Project("{5DD5E4FA-CB73-4610-85AB-557B54E96AA9}") = "Zaamehrin.NuGet", "Zaamehrin.NuGet\Zaamehrin.NuGet.nuproj", "{6CB68206-71F6-4C40-8DDB-D36F8F0055A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1E05C2A-08F2-4BA7-834F-956FAD636311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E05C2A-08F2-4BA7-834F-956FAD636311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E05C2A-08F2-4BA7-834F-956FAD636311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E05C2A-08F2-4BA7-834F-956FAD636311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E40850-9043-428F-8016-DD6B5E3D1F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E40850-9043-428F-8016-DD6B5E3D1F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E40850-9043-428F-8016-DD6B5E3D1F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E40850-9043-428F-8016-DD6B5E3D1F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB68206-71F6-4C40-8DDB-D36F8F0055A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB68206-71F6-4C40-8DDB-D36F8F0055A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB68206-71F6-4C40-8DDB-D36F8F0055A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB68206-71F6-4C40-8DDB-D36F8F0055A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
